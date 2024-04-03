@@ -140,6 +140,9 @@ small{
     align-items: center;
     padding: 5px;
 }
+#main{
+    background-size: cover;
+}
 
 
 
